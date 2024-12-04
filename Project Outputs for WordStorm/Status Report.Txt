@@ -1,13 +1,10 @@
-Output: NC Drill Files
-Type  : NC Drill
+Output: Report Board Stack
+Type  : Report Board Stack
 From  : PCB Document [PCB1.PcbDoc]
-   Generated File[PCB1-RoundHoles.TXT]
-   Generated File[PCB1-SlotHoles.TXT]
-   Generated File[PCB1.LDP]
-   Generated File[PCB1.DRR]
+   Generated File[PCB1.xls]
 
 
-Files Generated   : 4
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 9:22:54 PM On 12/3/2024
+Finished Output Generation At 1:36:40 PM On 12/4/2024
