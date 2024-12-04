@@ -1,5 +1,5 @@
-G04:AMPARAMS|DCode=39|XSize=67.32mil|YSize=16.93mil|CornerRadius=4.33mil|HoleSize=0mil|Usage=FLASHONLY|Rotation=0.000|XOffset=0mil|YOffset=0mil|HoleType=Round|Shape=RoundedRectangle|*
-%AMROUNDEDRECTD39*
+G04:AMPARAMS|DCode=43|XSize=67.32mil|YSize=16.93mil|CornerRadius=4.33mil|HoleSize=0mil|Usage=FLASHONLY|Rotation=0.000|XOffset=0mil|YOffset=0mil|HoleType=Round|Shape=RoundedRectangle|*
+%AMROUNDEDRECTD43*
 21,1,0.06732,0.00827,0,0,0.0*
 21,1,0.05866,0.01693,0,0,0.0*
 1,1,0.00866,0.02933,-0.00413*
@@ -7,8 +7,8 @@ G04:AMPARAMS|DCode=39|XSize=67.32mil|YSize=16.93mil|CornerRadius=4.33mil|HoleSiz
 1,1,0.00866,-0.02933,0.00413*
 1,1,0.00866,0.02933,0.00413*
 %
-G04:AMPARAMS|DCode=40|XSize=67.32mil|YSize=16.93mil|CornerRadius=4.33mil|HoleSize=0mil|Usage=FLASHONLY|Rotation=90.000|XOffset=0mil|YOffset=0mil|HoleType=Round|Shape=RoundedRectangle|*
-%AMROUNDEDRECTD40*
+G04:AMPARAMS|DCode=44|XSize=67.32mil|YSize=16.93mil|CornerRadius=4.33mil|HoleSize=0mil|Usage=FLASHONLY|Rotation=90.000|XOffset=0mil|YOffset=0mil|HoleType=Round|Shape=RoundedRectangle|*
+%AMROUNDEDRECTD44*
 21,1,0.06732,0.00827,0,0,90.0*
 21,1,0.05866,0.01693,0,0,90.0*
 1,1,0.00866,0.00413,0.02933*
@@ -16,8 +16,8 @@ G04:AMPARAMS|DCode=40|XSize=67.32mil|YSize=16.93mil|CornerRadius=4.33mil|HoleSiz
 1,1,0.00866,-0.00413,-0.02933*
 1,1,0.00866,-0.00413,0.02933*
 %
-G04:AMPARAMS|DCode=99|XSize=61.42mil|YSize=11.02mil|CornerRadius=1.38mil|HoleSize=0mil|Usage=FLASHONLY|Rotation=0.000|XOffset=0mil|YOffset=0mil|HoleType=Round|Shape=RoundedRectangle|*
-%AMROUNDEDRECTD99*
+G04:AMPARAMS|DCode=105|XSize=61.42mil|YSize=11.02mil|CornerRadius=1.38mil|HoleSize=0mil|Usage=FLASHONLY|Rotation=0.000|XOffset=0mil|YOffset=0mil|HoleType=Round|Shape=RoundedRectangle|*
+%AMROUNDEDRECTD105*
 21,1,0.06142,0.00827,0,0,0.0*
 21,1,0.05866,0.01102,0,0,0.0*
 1,1,0.00276,0.02933,-0.00413*
@@ -25,8 +25,8 @@ G04:AMPARAMS|DCode=99|XSize=61.42mil|YSize=11.02mil|CornerRadius=1.38mil|HoleSiz
 1,1,0.00276,-0.02933,0.00413*
 1,1,0.00276,0.02933,0.00413*
 %
-G04:AMPARAMS|DCode=100|XSize=61.42mil|YSize=11.02mil|CornerRadius=1.38mil|HoleSize=0mil|Usage=FLASHONLY|Rotation=90.000|XOffset=0mil|YOffset=0mil|HoleType=Round|Shape=RoundedRectangle|*
-%AMROUNDEDRECTD100*
+G04:AMPARAMS|DCode=106|XSize=61.42mil|YSize=11.02mil|CornerRadius=1.38mil|HoleSize=0mil|Usage=FLASHONLY|Rotation=90.000|XOffset=0mil|YOffset=0mil|HoleType=Round|Shape=RoundedRectangle|*
+%AMROUNDEDRECTD106*
 21,1,0.06142,0.00827,0,0,90.0*
 21,1,0.05866,0.01102,0,0,90.0*
 1,1,0.00276,0.00413,0.02933*
