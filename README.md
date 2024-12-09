@@ -4,7 +4,7 @@
 
  # Online BOM
  
- [BOM - WordStorm Cable Assy](https://www.digikey.com/en/mylists/list/2O8VW37YGKO)
+ [BOM - WordStorm Cable Assy](https://www.digikey.com/en/mylists/list/2O8VW37YGK)
  
  [BOM - WordStorm R1.0](https://www.digikey.com/en/mylists/list/FTYAIGX1OS)
  
