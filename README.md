@@ -1,3 +1,1 @@
 # Thermal Typewriter Project
-
-WIP
