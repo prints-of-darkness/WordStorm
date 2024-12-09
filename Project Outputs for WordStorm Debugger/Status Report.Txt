@@ -1,0 +1,10 @@
+Output: Save As/Export Schematic
+Type  : Universal Exporter
+From  : Project [WordStorm Debugger.PrjPcb]
+   Generated File[Sheet1.SchDoc]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 4:15:19 PM On 12/9/2024
