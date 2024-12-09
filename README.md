@@ -2,7 +2,7 @@
 
 ![typewriter](img/output1.jpg)
 
----
+# Project Links
 
 [Case](https://github.com/prints-of-darkness/WordStorm-Case)
 
