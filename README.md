@@ -2,7 +2,17 @@
 
 ![typewriter](img/output1.jpg)
 
-# Project Links
+ # Online BOM
+ 
+ [BOM - WordStorm Cable Assy](https://www.digikey.com/en/mylists/list/2O8VW37YGKO)
+ 
+ [BOM - WordStorm R1.0](https://www.digikey.com/en/mylists/list/FTYAIGX1OS)
+ 
+ [BOM - WordStorm Button](https://www.digikey.com/en/mylists/list/06NHDMXKI4)
+ 
+ [BOM - WordStorm Debugger](https://www.digikey.com/en/mylists/list/TRGR0LOKP3)
+ 
+ # Project Links
 
 [Case](https://github.com/prints-of-darkness/WordStorm-Case)
 
