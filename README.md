@@ -18,4 +18,4 @@
 
 [Display Module](https://github.com/prints-of-darkness/WordStorm-Display)
 
-[Code](https://en.wikipedia.org/wiki/C_(programming_language))
+[Code](https://github.com/prints-of-darkness/WordStorm-Code)
