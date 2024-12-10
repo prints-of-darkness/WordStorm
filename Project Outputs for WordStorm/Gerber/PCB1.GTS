@@ -6,7 +6,7 @@ G04 Layer_Color=8388736*
 %MOIN*%
 G70*
 G04*
-G04 #@! TF.SameCoordinates,5F81AE7C-AB0D-4690-AEB6-CC057C0B30A3*
+G04 #@! TF.SameCoordinates,ADD0CA64-B7AE-47D3-876D-0E66A6B94FBF*
 G04*
 G04*
 G04 #@! TF.FilePolarity,Negative*
